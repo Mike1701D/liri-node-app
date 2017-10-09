@@ -1,5 +1,4 @@
-// Twitter Key Export 
-// console.log("this is loaded");
+console.log("this is loaded");
  
 var twitterKeys = {
   consumer_key: 'Fwc23y9XXDS59qD5uy9AG0zSE',
